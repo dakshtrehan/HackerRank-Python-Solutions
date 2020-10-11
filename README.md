@@ -2,4 +2,4 @@
 
 Python solutions to Hackerrank problems.
 
-## Code designed by Daksh Trehan
+### Code designed by Daksh Trehan
